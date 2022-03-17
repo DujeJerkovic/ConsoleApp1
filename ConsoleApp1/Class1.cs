@@ -6,9 +6,6 @@ namespace ConsoleApp1
 {
     class Class1
     {
-        static void primjer(string []args)
-        {
-
-        }
+        Console.WriteLine("Neka druga promjena"!);
     }
 }
